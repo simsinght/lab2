@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5112A9AB48C044D518AE9002B8BE3A27D124F8AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5112A9AB48C044D518AE9002B8BE3A27D124F8AD" : 9223372036854775807,
+    "5143C01CFBC65F46C6A1863DC5DFB4E6B2C36672" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13345D82-EDFD-48E6-BF66-5D4328DDA81B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5112A9AB48C044D518AE9002B8BE3A27D124F8AD" : "lab1\/",
+    "5143C01CFBC65F46C6A1863DC5DFB4E6B2C36672" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tumbler Feed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tumbler Feed.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:r3dang\/lab1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5112A9AB48C044D518AE9002B8BE3A27D124F8AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:simsinght\/Practice_and_Git.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5143C01CFBC65F46C6A1863DC5DFB4E6B2C36672"
+    }
+  ]
+}
